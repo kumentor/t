@@ -1,5 +1,5 @@
 +++
-judul = "Tulisan" 
+judul = "Pos" 
 deskripsi = "t untuk tulisan dalam Bahasa Indonesia"
 +++
 
