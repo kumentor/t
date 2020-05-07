@@ -1,15 +1,21 @@
 +++
-title = "Menulis"
+title = "Menulis di Kumentor"
 +++
 
-# Menulis
+# Menulis di Kumentor
 
 ## Panduan Menulis
 ### Markah *Markdown*
 Tulisan berbentuk `.md` atau markah *Markdown*.
 ### Kepala (*Frontmatter*)
 Kepala tulisan berbetuk `.toml`.
-#### Judul
-#### Deskripsi
-#### Penulis
-#### Tanggal
+
+```toml
++++
+judul = "Judul Tulisan"
++++
+```
+#### `Judul`
+#### `Deskripsi`
+#### `Tanggal`
+#### Parameter lain untuk Kepala Tulisan
